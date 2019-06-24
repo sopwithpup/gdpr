@@ -1,7 +1,8 @@
 fr:
   gdpr:
-    privacy_policy: https://www.eugdpr.org
+    privacy_policy: https://www.livreandco.com/privacy
     cookie_consent:
       text: "En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de Cookies pour vous proposer notamment des fonctionnalités personnalisées et pour réaliser des mesures d’audience."
       button: "J'ai compris"
+      buttonno: "Je refuse"
       learn_more_html: "Pour en savoir plus et paramétrer ces cookies : <a href=\"%{link}\" target=\"_blank\">cliquer ici</a>."
